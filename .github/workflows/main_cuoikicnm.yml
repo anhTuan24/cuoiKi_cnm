@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'CuoiKiCNM'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_84EABB34ADB54942888B97E5222ADA2E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E5A6A4D4EBE8430C84D2F5585EAE8859 }}
